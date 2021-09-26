@@ -1,5 +1,7 @@
 # This test is discontinued!
 
+THE FOLLOWING MESSAGE WAS WRITTEN BY THE ORIGINAL CREATOR, I DID NOT MAKE THIS TEST:
+
 It was fun while it lasted, but this test is no longer receiving updates.
 
 AmericanValues was never meant to be anything more than a project for me to develop other people's code; it was not meant to be an accurate political test. I eventually stopped working on it and forgot it even existed — until Reddit found it, and dozens of users began taking the test. Their results where hilariously inaccurate, prompting a few kind souls to submit issues to suggest improvements, and I definitely appreciate it! Thank yall!
